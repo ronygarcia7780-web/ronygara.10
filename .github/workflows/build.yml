@@ -52,4 +52,3 @@ jobs:
         with:
           name: scripta-apk
           path: app/build/app/outputs/flutter-apk/app-debug.apk
-       
